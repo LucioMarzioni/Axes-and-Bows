@@ -7,7 +7,7 @@ export default class GameVS extends Phaser.Scene {
 
   init() {
     this.gameOver = false;
-    this.timer = 3;
+    this.timer = 60;
     this.score1 = 0;
     this.score2 = 0;
     this.shapes = {
