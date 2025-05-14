@@ -1,0 +1,15 @@
+{
+  "name": "axes-and-bows",
+  "version": "1.0.0",
+  "description": "Plantilla para iniciar nuevos proyectos con PHASER 3.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^11.7.1"
+  }
+}
